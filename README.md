@@ -34,7 +34,7 @@
 
 ## 🌐 Connect with Me
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000?logo=vercel&logoColor=white)](https://your-portfolio-link.com)  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/your-link)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)]([https://linkedin.com/in/your-link](https://www.linkedin.com/in/voltaire-rabino-ba144527a/)  
 [![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:your-email@gmail.com)  
 
 ---
