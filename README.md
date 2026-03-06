@@ -16,7 +16,7 @@
 ---
 
 ## 🏆 GitHub Trophies
-![trophy](https://github-profile-trophy.vercel.app/?username=voltaire-rabino00&theme=onedark&no-frame=true&margin-w=15)
+![trophy](https://github-profile-trophy.vercel.app/?username=voltaire-rabino00)
  
 
 ---
