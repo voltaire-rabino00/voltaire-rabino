@@ -10,14 +10,14 @@
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=voltaire-rabino00&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=voltaire-rabino&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=voltaire-rabino00&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=voltaire-rabino&layout=compact&theme=radical)
 
 ---
 
 ## 🏆 GitHub Trophies
-![Trophies](https://github-profile-trophy.vercel.app/?username=voltaire-rabino00&theme=radical)
+![Trophies](https://github-profile-trophy.vercel.app/?username=voltaire-rabino&theme=radical)
  
 
 ---
