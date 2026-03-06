@@ -16,8 +16,7 @@
 
 ---
 
-## 🏆 GitHub Trophies
-![Trophies](https://github-profile-trophy.vercel.app/?username=voltaire-rabino&theme=radical)
+[![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=voltaire-rabino00)](https://github.com/ryo-ma/github-profile-trophy)
  
 
 ---
