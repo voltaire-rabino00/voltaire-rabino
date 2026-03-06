@@ -13,9 +13,9 @@
 [![Trophies](https://github-profile-trophy-nu.vercel.app/?username=voltaire-rabino00&theme=flat)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=voltaire-rabino00&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=voltaire-rabino00&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=voltaire-rabino00&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=voltaire-rabino00&layout=compact&theme=radical)
  
 
 ---
